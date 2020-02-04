@@ -14,7 +14,7 @@ public class Main {
             }
         } else return "Выходной";
 
-        return "До выходных осталось " + hours;
+        return "До выходных осталось: " + hours;
     }
 }
 
